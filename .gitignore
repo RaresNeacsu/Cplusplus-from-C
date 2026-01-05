@@ -1,0 +1,10 @@
+# Executables
+*.out
+*.exe
+main
+test
+
+# Specific executables
+mainc
+maincpp
+homework
