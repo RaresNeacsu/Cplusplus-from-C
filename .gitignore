@@ -1,5 +1,7 @@
 # Executables
 *.out
+*.o
+*.obj
 *.exe
 main
 test
@@ -8,3 +10,4 @@ test
 mainc
 maincpp
 homework
+graph
